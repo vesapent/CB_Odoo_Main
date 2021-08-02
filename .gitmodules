@@ -2,3 +2,7 @@
 	path = sprintit/sprintit_accounting_official
 	url = git@bitbucket.org:sprintit/sprintit_accounting_official.git
 	branch = 14.0
+[submodule "cooliblade_addons"]
+	path = cooliblade_addons
+	url = git@bitbucket.org:elmerisprintit/cooliblade_addons.git
+	branch = 14.0
