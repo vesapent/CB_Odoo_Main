@@ -6,3 +6,8 @@
 	path = sprintit/cooliblade_addons
 	url = git@bitbucket.org:sprintit/cooliblade_addons.git
 	branch = 14.0
+
+[submodule "mpmartti/Odoo14_purchase_mail_product_attachment"]
+	path = mpmartti/Odoo14_purchase_mail_product_attachment
+	url = git@github.com:mpmartti/Odoo14_purchase_mail_product_attachment.git
+	branch = main
